@@ -1,0 +1,8 @@
+const listaalumnosJS = ["Johanna", "Felipe","Valentina"];
+  
+function hola (listaalumnosJS){
+   var hola = 1;  console.log("hola" + 1)     
+   for( let i = 0; i<listaalumnosJS.length; i++ ){
+      total += alumnos[i];
+   }
+   return listaalumnosJS;
